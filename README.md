@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   
-  [Github page for this project](https://armanhm.github.io/Exam-Management)
+  [**Github page for this project**](https://armanhm.github.io/Exam-Management)
   
   
   This project consist of these parts:
