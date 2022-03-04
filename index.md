@@ -28,7 +28,6 @@ Each exam consists of these parts:
   - Code (must be unique)   
 
 ```markdown
-
  1. Exam types
    - Test
    - Descrpitive
@@ -36,7 +35,6 @@ Each exam consists of these parts:
  2. Test type should have negative score for wrong answer
  3. The result of test exams will be prepared immidiatly after the test
  4. Other types will be scored by teacher  
- 
 ```
 
 ### Sign up process
@@ -47,6 +45,8 @@ User Type: 1. Director 2. Teacher 3. Student
 
 ### Contact
 [Twitter](https://twitter.com/armanhm79)
+
 [Email](armanhm79@gmail.com)
+
 [Github](https://github.com/armanhm)
 
