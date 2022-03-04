@@ -45,7 +45,7 @@
      
 
   ## License 
-  This project is license under MIT
+  This project is license under [MIT](https://github.com/armanhm/Exam-Management/blob/master/LICENSE)
 
   ## Contributing 
   Contributors should read the installation section. 
