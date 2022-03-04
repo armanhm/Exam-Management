@@ -2,10 +2,10 @@
 
  This project consist of these parts:
  1. Head manager 
-   - Create exams
-   - Edit exams
-   - Delete exams
-   - Release scores
+    - Create exams
+    - Edit exams
+    - Delete exams
+    - Release scores
   
  2. Student
    - Take part in exams
