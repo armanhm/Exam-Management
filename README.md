@@ -1,19 +1,6 @@
 # Exam Management System (Java)
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-
-  ## Description 
-  This project is an Exam managemnt system for advance programming course in 2019
-
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
   
-  ## Installation 
-  You can run this project easily in IntelliJ program or other IDEs.
-
-  ## Usage 
   This project consist of these parts:
   1. Head manager 
    - Create exams
@@ -30,6 +17,22 @@
    - Add questions to exam
    - edit exsited questions
    - Correct the exams 
+  
+
+  ## Description 
+  This project is an Exam managemnt system for advance programming course in 2019
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  
+  ## Installation 
+  You can run this project easily in IntelliJ program or other IDEs.
+
+  ## Usage 
+
      
 
   ## License 
