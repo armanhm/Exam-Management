@@ -1,24 +1,31 @@
 ## Welcome to Exam Management Project
 
-This project consist of these parts:
+  This project consist of these parts:
+  1. Head manager 
+   - Create exams
+   - Edit exams
+   - Delete exams
+   - Release scores
+  
+  2. Student
+   - Take part in exams
+   - See the results
+  
+  3. Teacher 
+   - Release scores
+   - Add questions to exam
+   - edit exsited questions
+   - Correct the exams 
 
-Head manager
-Create exams
-Edit exams
-Delete exams
-Release scores
-Student
-Take part in exams
-See the results
-Teacher
-Release scores
-Add questions to exam
-edit exsited questions
-Correct the exams
+### Exam
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each exam consists of these parts:
+  - Teacher
+  - Head manager
+  - course name
+  - date
+  - duration
+  - code (must be unique)   
 
 ```markdown
 Syntax highlighted code block
