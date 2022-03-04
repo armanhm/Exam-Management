@@ -39,11 +39,14 @@ Each exam consists of these parts:
  
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Sign up process
 
-### Jekyll Themes
+Username: user should choose unique username
+PassWord: Should be at least 4 characters
+User Type: 1. Director 2. Teacher 3. Student
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/armanhm/Exam-Management/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
+[Twitter](https://twitter.com/armanhm79)
+[Email](armanhm79@gmail.com)
+[Github](https://github.com/armanhm)
 
