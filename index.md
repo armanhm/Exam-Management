@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Exam Management Project
 
 This project consist of these parts:
 
