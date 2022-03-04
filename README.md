@@ -1,4 +1,4 @@
-# README Generator 
+# Exam Management System (Java)
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
