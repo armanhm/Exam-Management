@@ -14,7 +14,23 @@
   You can run this project easily in IntelliJ program or other IDEs.
 
   ## Usage 
+  This project consist of these parts:
+  1. Head manager 
+   - Create exams
+   - Edit exams
+   - Delete exams
+   - Release scores
   
+  2. Student
+   - Take part in exams
+   - See the results
+  
+  4. Teacher 
+   - Release scores
+   - Add questions to exam
+   - edit exsited questions
+   - Correct the exams 
+     
 
   ## License 
   This project is license under MIT
