@@ -43,7 +43,6 @@ https://plnkr.co or similar (you can use this template as a starting point: http
 - [ ] Edge version XX
 
 * **For Tooling issues:**
-- Node version: XX  <!-- run `node --version` -->
 - Platform:  <!-- Mac, Linux, Windows -->
 
 * Others:
