@@ -22,17 +22,22 @@
   ## Description 
   This project is an Exam managemnt system for advance programming course in 2019
 
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
   
+  
   ## Installation 
   You can run this project easily in IntelliJ program or other IDEs.
 
-  ## Usage 
 
+  ## Usage 
+  After running the project for the first time, you can sign up and choose your rule.
+  Then you can sign in and use the app.
+  
      
 
   ## License 
@@ -44,5 +49,6 @@
 
   ## Questions
   If you have any questions about this projects, please contact me at armanhm79@gmail.com.
+  
   You can see my other projects at [my GitHub profile](https://github.com/armanh).
   
