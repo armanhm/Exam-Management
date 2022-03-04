@@ -22,27 +22,21 @@
 Each exam consists of these parts:
   - Teacher
   - Head manager
-  - course name
-  - date
-  - duration
-  - code (must be unique)   
+  - Course name
+  - Date
+  - Duration
+  - Code (must be unique)   
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ 1. Exam types
+   - Test
+   - Descrpitive
+   - Both
+ 2. Test type should have negative score for wrong answer
+ 3. The result of test exams will be prepared immidiatly after the test
+ 4. Other types will be scored by teacher  
+ 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
