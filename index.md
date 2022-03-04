@@ -2,20 +2,20 @@
 
  This project consist of these parts:
  1. Head manager 
-  - Create exams
-  - Edit exams
-  - Delete exams
-  - Release scores
+   - Create exams
+   - Edit exams
+   - Delete exams
+   - Release scores
   
  2. Student
-  - Take part in exams
-  - See the results
+   - Take part in exams
+   - See the results
   
  3. Teacher 
-  - Release scores
-  - Add questions to exam
-  - edit exsited questions
-  - Correct the exams 
+   - Release scores
+   - Add questions to exam
+   - edit exsited questions
+   - Correct the exams 
 
 ### Exam
 
@@ -29,9 +29,9 @@ Each exam consists of these parts:
 
 ```markdown
  1. Exam types
-   - Test
-   - Descrpitive
-   - Both
+    - Test
+    - Descrpitive
+    - Both
  2. Test type should have negative score for wrong answer
  3. The result of test exams will be prepared immidiatly after the test
  4. Other types will be scored by teacher  
